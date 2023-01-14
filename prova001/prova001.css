@@ -1,0 +1,42 @@
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: brown;
+}
+
+ul li {
+    display: inline-block;
+    padding: 90px;
+    margin: 20px;
+    
+}
+
+li :hover {
+    font-size: 18px;
+    width: 205px;
+    height: 205px;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    
+}
+
+p:hover {
+    color: darkgreen;
+    
+}

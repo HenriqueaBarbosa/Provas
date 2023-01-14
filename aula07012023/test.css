@@ -1,0 +1,24 @@
+.alng-btn {
+    display: flex;
+    justify-content: end;
+    padding-top: 1rem;
+}
+
+.tbl-alg{
+    padding-top: 2rem;
+}
+
+.deletar{
+    background-color: red !important;
+}
+
+.editar{
+    background-color: blue !important;
+}
+
+.btn-modal {
+    display: flex;
+    justify-content: end;
+    width: auto;
+}
+

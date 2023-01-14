@@ -1,0 +1,19 @@
+/* ARQUIVO CSS */
+
+body {
+background-color: brown;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+
+label,li,h3,p {
+    color: white;
+    font-weight: bold;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none; 
+}
+
